@@ -1,6 +1,12 @@
-# WEB103 Prework - *👉🏿 Creatorverse*
+*👉🏿 Creatorverse*
 
 Submitted by: **👉🏿 Jesse Rosenthal**
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+👉🏿<img src='https://github.com/Itsurguy2/creatorverse/blob/master/src/assets/Creators%20gif%203.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 About this web app: **👉🏿 # ✨ Creatorverse
 
@@ -165,22 +171,8 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://github.com/Itsurguy2/creatorverse/blob/master/src/assets/Creators%20gif%203.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
